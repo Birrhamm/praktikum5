@@ -59,4 +59,4 @@
  
 ### FLOWCHART LATIHAN 5
 
- ![gambar1](gambar/gambarflowchartlatihan5.jpeg)
+ ![gambar1](gambar/flowchartpraktikum5.jpeg)
