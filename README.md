@@ -51,11 +51,11 @@
 
 - Kemudian kita akan membuat program pilihan (Y/T)?, Yaitu ketika kita akan menginputkan Y,maka langsung pada saat itu akan muncul atau di minta untuk mengisi data kembali, Tetapi pada saat kita ingin menginputkan T, Maka program yang kita tadi jalankan akan berakhir dengan menampilkan hasil inputan yang tadi kita buat
 
-![gambar1](gambar/a9.png)
+![gambar1](gambar/a95.png)
 
  - Hasil dari program yang kita buat tadi akan seperti ini
  
- ![gambar1](gambar/a10.png)
+ ![gambar1](gambar/a50.png)
  
 ### FLOWCHART LATIHAN 5
 
